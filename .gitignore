@@ -1,3 +1,4 @@
 .DS_Store
 secretes.txt
 node_modules/
+.gitignore
