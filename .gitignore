@@ -2,3 +2,5 @@
 secretes.txt
 node_modules/
 .gitignore
+*~
+*.[oa]
